@@ -1,0 +1,27 @@
+{
+  "name": "ashen",
+  "displayName": "Ashen",
+  "description": "A dark high-contrast color theme inspired by ashen.nvim",
+  "version": "1.0.0",
+  "publisher": "ms",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ashen",
+        "uiTheme": "hc-black",
+        "path": "./themes/ashen.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}
